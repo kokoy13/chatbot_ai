@@ -6,8 +6,6 @@ Menggunakan **Laravel** sebagai frontend dan **FastAPI** untuk menangani permint
 
 ---
 
-![Gemini AI](https://via.placeholder.com/1200x400?text=Gemini+AI+Integration+Demo)
-
 ## 🚀 Fitur
 
 - ✅ **Integrasi cepat** antara **Laravel** dan **FastAPI**.
@@ -23,8 +21,8 @@ Menggunakan **Laravel** sebagai frontend dan **FastAPI** untuk menangani permint
 ### 1. Clone Proyek
 
 ```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
+git clone https://github.com/kokoy13/chatbot_ai
+cd chatbot_ai
 ```
 
 ### 2. Setup FastAPI Server
@@ -122,24 +120,6 @@ Response: Laravel adalah framework PHP berbasis MVC ...
 
 ---
 
-## 🧑‍💻 Demo
-
-**Video Demo (Coming Soon)**  
-Video demo akan datang untuk menunjukkan bagaimana Laravel dan FastAPI bekerja bersama dalam proyek ini.
-
-**Screenshot**
-
-> Berikut adalah tampilan antarmuka pengguna saat meminta informasi mengenai Laravel.
-
-![Screenshot](https://via.placeholder.com/700x350?text=Laravel+to+FastAPI+AI+Response)
-
----
-
-## 📜 Lisensi
-
-Proyek ini dilisensikan di bawah **MIT License**. Lihat [LICENSE](LICENSE) untuk detail lebih lanjut.
-
----
 
 ## 🙌 Kontribusi
 

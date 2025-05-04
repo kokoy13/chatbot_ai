@@ -119,7 +119,6 @@ Jika Anda menemukan bug atau memiliki fitur tambahan, silakan buka **Issue** ata
 
 ## ✨ Badge
 
-![Laravel](https://img.shields.io/badge/Laravel-v10+-%23F4A261)
+![Laravel](https://img.shields.io/badge/Laravel-v12+-%23F4A261)
 ![FastAPI](https://img.shields.io/badge/FastAPI-v0.95+-%233F6BFF)
-![Python](https://img.shields.io/badge/Python-v3.10+-%233875B8)
-![License](https://img.shields.io/badge/license-MIT-%23FF6F61)
+![Python](https://img.shields.io/badge/Python-v3.12+-%233875B8)

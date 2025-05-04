@@ -29,7 +29,7 @@ cd chatbot_ai
 
 1. **Masuk ke direktori FastAPI**:
     ```bash
-    cd genai-api
+    cd genai-server
     ```
 
 2. **Buat Virtual Environment**:

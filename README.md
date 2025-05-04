@@ -52,15 +52,13 @@ cd chatbot_ai
 5. **Jalankan Server FastAPI**:
     ```bash
     ./start.sh
-    # atau
-    uvicorn main:app --reload
     ```
 
 ### 3. Setup Laravel
 
 1. **Masuk ke direktori Laravel**:
     ```bash
-    cd laravel-app
+    cd chatbot
     ```
 
 2. **Install dependensi Laravel**:
@@ -82,25 +80,16 @@ cd chatbot_ai
 Buka halaman Laravel di browser:
 
 ```
-http://127.0.0.1:8000/genai?prompt=apa+itu+Laravel
+http://127.0.0.1:8000/
 ```
-
-Contoh tampilan:
-
-```
-Prompt: Apa itu Laravel?
-Response: Laravel adalah framework PHP berbasis MVC ...
-```
-
----
 
 ## 🧠 Teknologi yang Digunakan
 
-- **Laravel** 10+ – PHP framework untuk frontend.
+- **Laravel** 12 – PHP framework untuk frontend.
 - **FastAPI** – Python framework untuk API yang cepat.
 - **Google Generative AI** – Model AI untuk menjawab pertanyaan.
 - **Uvicorn** – ASGI server untuk FastAPI.
-- **Python 3.10+** – Bahasa pemrograman backend.
+- **Python 3.12+** – Bahasa pemrograman backend.
 - **PHP 8+** – Bahasa pemrograman frontend.
 - **HTML/Blade Templates** – Untuk tampilan frontend di Laravel.
 
